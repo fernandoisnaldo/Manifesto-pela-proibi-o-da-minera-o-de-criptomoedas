@@ -22,5 +22,5 @@ R: Primeiro que não existe fonte de energia 100% limpa, toda fonte de energia r
 
 Este FAQ será atualizado conforme novas perguntas e questionamentos
 
-Assinaturas
-~~ Fernando Isnaldo Silva de Faria
+Assinaturas:
+1) Fernando Isnaldo Silva de Faria
