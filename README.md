@@ -1,6 +1,6 @@
 # MANIFESTO PELA PROIBIÇÃO DE MINERAÇÃO DE CRIPTOMOEDAS
 
-  AVISO: Este artigo é um trabalho em progresso, um esboço bem grosseiro, ainda falta muito pra finalizar ele, agradecemos aqueles que fizerem pull request para propor alterações.
+AVISO: Este artigo é um trabalho em progresso, um esboço bem grosseiro, ainda falta muito pra finalizar ele, agradecemos aqueles que fizerem pull request para propor alterações. Com o seu apoio, talvez possamos criar páginas em outras línguas, após finalizar a versão brasileira.
 
 Bitcoin é uma criptomoeda com um poder computacional crescente, poder computacional este que tende a acompanhar o preço de mercado.
 
