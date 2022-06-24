@@ -15,9 +15,11 @@ A princípio, eu não irei pautar sobre a proibição da comercialização do Bi
 FAQ:
 
 1) Se criarem um hardware mais eficiente, a mineração do Bitcoin poderá ser feita de forma mais eficiente?
+
 R: Não, pois o algorítmo de ajuste de dificuldade aumentará a dificuldade da mineração do Bitcoin.
 
 2) Se usarem vulcões, paineis solares, usinas hidrelétricas ou outras fontes de energia limpa e renovável para minerar Bitcoin, isso resolve o problema?
+
 R: Primeiro que não existe fonte de energia 100% limpa, toda fonte de energia requer mineração de recursos minerais que é danosa ao meio-ambiente, sem contar que como tudo eles são finitos. Seria mais útil empregar esta energia em coisas mais eficientes, na atividade produtiva e no entretenimento.
 
 Este FAQ será atualizado conforme novas perguntas e questionamentos
