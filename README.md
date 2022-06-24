@@ -21,3 +21,6 @@ R: Não, pois o algorítmo de ajuste de dificuldade aumentará a dificuldade da 
 R: Primeiro que não existe fonte de energia 100% limpa, toda fonte de energia requer mineração de recursos minerais que é danosa ao meio-ambiente, sem contar que como tudo eles são finitos. Seria mais útil empregar esta energia em coisas mais eficientes, na atividade produtiva e no entretenimento.
 
 Este FAQ será atualizado conforme novas perguntas e questionamentos
+
+Assinaturas
+~~ Fernando Isnaldo Silva de Faria
