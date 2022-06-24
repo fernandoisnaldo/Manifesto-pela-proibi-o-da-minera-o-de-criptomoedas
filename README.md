@@ -6,7 +6,7 @@ Bitcoin é uma criptomoeda com um poder computacional crescente, poder computaci
 
 A explicação para isso, é que o Bitcoin e outras criptomoedas baseadas em Prova de Trabalho (Proof of Work) possuem um algorítmo de ajuste de dificuldades, para manter a velocidade das transações num rítimo constante independente do poder computacional.
 
-O que eu quero dizer com isso? Quero dizer que o Bitcoin e outras criptomoedas, não precisam de todo este poder computacional para funcionar, mas acabam tendo este poder computacional porque durante o pagamento da recompensa da resolução do bloco, isso é recompensado pelos próprios especuladores do Mercado Fiannceiro.
+O que eu quero dizer com isso? Quero dizer que o Bitcoin e outras criptomoedas, não precisam de todo este poder computacional para funcionar, mas acabam tendo este poder computacional porque durante o pagamento da recompensa da resolução do bloco, isso é recompensado pelos próprios especuladores do mercado fianceiro.
 
 Quanto mais caro o Bitcoin é, maior a recompensa paga em Dólar para os mineradores, mesmo que a velocidade de transações seja a mesma.
 
